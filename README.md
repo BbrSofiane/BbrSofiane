@@ -2,17 +2,50 @@
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
 
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 CTO 𝚊𝚝 Dicey Tech
+I'm Sofiane, Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 CTO 𝚊𝚝 [Dicey Tech](http://diceytech.co.uk/)
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊!
+![Dicey tech logo](/images/DiceyIconSmall.png)
 
-[<img src="https://raw.githubusercontent.com/BbrSofiane/BbrSofiane/master/socials/linkedin.png" height="40em" align="center" alt="Follow BbrSofiane on LinkedIn" title="Follow SofianeBbr on LinkedIn"/>](https://www.linkedin.com/in/sofiane-bebert/)
-[<img src="https://raw.githubusercontent.com/BbrSofiane/BbrSofiane/master/socials/twitter.svg" height="40em" align="center" alt="Follow BbrSofiane on Twitter" title="Follow SofianeBbr on Twitter"/>](https://twitter.com/SofianeBbr)
+## 🔭 I’m currently working on
 
+Connecting the frontiers of innovation with the back rows of education, making education exciting and relevant, and preparing learners to thrive in the future of work.
+
+## 🌱 I’m currently learning
+
+<ul>
+  <li>
+    <p><a href="https://www.pulumi.com/" target="_blank"><img height="25" src="https://www.pulumi.com/images/logo/logo-inv.svg"></a></p>
+  </li>
+  <li>
+    <p><a href="https://docs.tutor.overhang.io/index.html" target="_blank"><img height="20" src="https://docs.tutor.overhang.io/_static/tutor-logo.png"></a></p>
+  </li>
+</ul>
+
+## 💬 Ask me about
+
+<p> Running and developing <a href="https://open.edx.org/" target="_blank"><img height="20" src="https://open.edx.org/wp-content/themes/openedx/src/assets/images/Open-edX-horz-WHITE.svg"></a></p>
+
+## 🤔 I’m looking for help with
+
+Generating and using Knowledge Graphs to create amazing learning experiences!
+
+## 🔨 Languages and Tools:
+
+<p>
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
+</p>
+
+## 📫 How to reach me:
+
+<p>
+  <a href="https://github.com/BbrSofiane" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://twitter.com/SofianeBbr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sofiane-bebert/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
 
 <!--
 **BbrSofiane/BbrSofiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
