@@ -10,7 +10,7 @@ I'm Sofiane, Co-𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 CTO 𝚊𝚝 [Dicey Te
 
 ## 🔭 I’m currently working on
 
-Connecting the frontiers of innovation with the back rows of education, making education exciting and relevant, and preparing learners to thrive in the future of work.
+Building tools to surface exceptional young talent for the companies that shape the future.
 
 ## 🌱 I’m currently learning
 
@@ -19,17 +19,15 @@ Connecting the frontiers of innovation with the back rows of education, making e
     <p><a href="https://www.pulumi.com/" target="_blank"><img height="25" src="https://www.pulumi.com/images/logo/logo-inv.svg"></a></p>
   </li>
   <li>
-    <p><a href="https://docs.tutor.overhang.io/index.html" target="_blank"><img height="20" src="https://docs.tutor.overhang.io/_static/tutor-logo.png"></a></p>
+    <p><a href="https://htmx.org/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/img/htmx_logo.1.png"></a></p>
   </li>
+  
+  
 </ul>
 
 ## 💬 Ask me about
 
 <p> Running and developing <a href="https://open.edx.org/" target="_blank"><img height="20" src="https://open.edx.org/wp-content/themes/openedx/src/assets/images/Open-edX-horz-WHITE.svg"></a></p>
-
-## 🤔 I’m looking for help with
-
-Generating and using Knowledge Graphs to create amazing learning experiences!
 
 ## 🔨 Languages and Tools:
 
@@ -38,6 +36,7 @@ Generating and using Knowledge Graphs to create amazing learning experiences!
   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
   <img height="50" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png">
+  <img height="50" src="https://docs.tutor.overhang.io/_static/tutor-logo.png">
 </p>
 
 ## 📫 How to reach me:
